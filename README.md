@@ -13,4 +13,4 @@ Daily notebooks for data science practices
 - Day 44 / Day 47 : End-to-End Project
 - Day 48 / Day 50 : Advanced (Linux - C++ - Docker - Web Development with HTML/CSS/JS or Frameworks like Quarto and Streamlit)
 
-** Maybe the structure changes **
+**Maybe the structure changes**
